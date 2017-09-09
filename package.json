@@ -1,0 +1,19 @@
+{
+  "name": "testquek",
+  "version": "0.0.0",
+  "description": "Mining/Multiplayer",
+  "engines": {
+    "node": "6.11.0"
+  },
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "4.15.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aFriendlySword/plarmm"
+  }
+}
